@@ -1,2 +1,2 @@
 # react
-React test projects
+Redux Toolkit Examples https://github.com/reduxjs/redux-toolkit/tree/master/examples/query/react
